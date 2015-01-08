@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/theonion/bower-videohub-admin-frontend",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
