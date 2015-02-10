@@ -1,10 +1,6 @@
 {
   "name": "videohub-admin-frontend",
-<<<<<<< HEAD
-  "version": "0.1.13",
-=======
-  "version": "0.1.15",
->>>>>>> a58eea70eef9860b9ce4dcb10c91c8da31a96abe
+  "version": "0.1.16",
   "homepage": "https://github.com/theonion/bower-videohub-admin-frontend",
   "license": "MIT",
   "private": false,
